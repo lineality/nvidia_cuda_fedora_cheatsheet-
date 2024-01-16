@@ -2,7 +2,9 @@
 
 Nvidia Cuda Fedora Cheatsheet 
 
+```bash
 dnf list installed | grep cuda
+```
 
 Cuda Toolkit
 https://developer.nvidia.com/cuda-downloads
